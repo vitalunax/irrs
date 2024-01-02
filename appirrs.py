@@ -4,6 +4,9 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+pip install scikit-learn
+
+
 # Generate a random DataFrame for demonstration
 np.random.seed(42)
 data = {
